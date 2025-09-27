@@ -24,7 +24,8 @@ const styles = StyleSheet.create({
   headingText: {
     fontSize: 24,
     fontWeight: 'bold',
-    paddingHorizontal: 8
+    paddingHorizontal: 8,
+    color: 'white'
   },
   container:{
     flex:1,
